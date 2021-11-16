@@ -185,5 +185,22 @@ li{
     font-size: 1em;
     cursor: pointer;
 }
+@media (max-width:600px){
+    p{
+        font-size: .7rem;
+    }
+    button#contato{
+        width: 35vw;
+        height: 10vw; 
+         border: 3px solid white; 
+        background-color: rgb(0, 183, 255);  
+        
+         }
+         #contato,a{
+             color: blanchedalmond;
+             font-size: .7rem;
+         }
+   
+}
 
 
