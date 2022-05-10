@@ -31,12 +31,16 @@ function preencheDescricao2() {
     
 }
 function TrocaImagem(){
-    fts_Perfil.src="../imagem/perfil_cor.jpg";
+    fts_Perfil.src="imagem/perfil_cor.jpg";
+    console.log("Imagem trocada")
+    
     
         
     
 }
 function ImagemOriginal(){
-    fts_Perfil.src="../imagem/Imagem_Perfil.jpg"
+    fts_Perfil.src="imagem/Imagem_Perfil.jpg"
+    console.log("Imagem trocada")
+    
 
 }
